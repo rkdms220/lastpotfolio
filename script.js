@@ -55,7 +55,7 @@ window.addEventListener('scroll', function(){
     }
 })
 
-/* var swiper = new Swiper('.mySwiper',{
+var swiper = new Swiper('.mySwiper',{
     loop:true,
     autoplay:true,
-}) */
+})
